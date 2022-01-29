@@ -1,12 +1,13 @@
 using Xunit;
 
-namespace Cabother.Helpers.Test;
-
-public class UnitTest1
+namespace Cabother.Helpers.Test
 {
-    [Fact]
-    public void Test1()
+    public class UnitTest1
     {
+        [Fact]
+        public void Test1()
+        {
 
+        }
     }
 }
