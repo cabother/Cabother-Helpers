@@ -1,0 +1,12 @@
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/bin/Debug/net6.0/Cabother.Helpers.deps.json
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/bin/Debug/net6.0/Cabother.Helpers.dll
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/bin/Debug/net6.0/ref/Cabother.Helpers.dll
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/bin/Debug/net6.0/Cabother.Helpers.pdb
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.csproj.AssemblyReference.cache
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.AssemblyInfoInputs.cache
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.AssemblyInfo.cs
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.csproj.CoreCompileInputs.cache
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.dll
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/ref/Cabother.Helpers.dll
+/Users/mac/Development/dotnet/Cabother-Helpers/src/Cabother.Helpers/obj/Debug/net6.0/Cabother.Helpers.pdb
